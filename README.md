@@ -6,7 +6,7 @@ After EIGHT attempts at description, at the second time additions, it worked.
 
 Language and machine code allocated in ROM memory: 
 
-Language Machine:
+Machine Code:
 
 -- LI R1, 8
  -- LUI R1, 1
